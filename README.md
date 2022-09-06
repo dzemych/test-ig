@@ -1,4 +1,4 @@
-# GI test
+# IG test
 
 This [project](https://github.com/dzemych/test-gi) is test task for IG recruitment.
 
