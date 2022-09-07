@@ -1,6 +1,6 @@
 import React, { FC, useEffect, useState } from 'react'
 import classes from './UsersList.module.sass'
-import useHttp from '../hooks/useHttp'
+import useHttp from '../../hooks/useHttp'
 import Loading from '../Loading/Loading'
 import triangle from '../../assets/imgs/triangle_icon.png'
 

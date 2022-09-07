@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import classes from './App.module.sass'
-import Navigation from './components/Navigation'
+import Navigation from './components/Navigation/Navigation'
 import UsersList from './components/UsersList/UsersList'
 
 
